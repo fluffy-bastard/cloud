@@ -1,5 +1,5 @@
 # Compte Rendu - Cloud
-## IRC 4 - Groupe 8 - De Bastiani Julien / Dumez Julien
+## IRC 4 - Groupe 8
 
 ![enter image description here](https://raw.githubusercontent.com/fluffy-bastard/cloud/master/84330640_1162120863994310_8195569217412530176_n.png)
 
